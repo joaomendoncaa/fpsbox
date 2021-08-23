@@ -1,6 +1,5 @@
 {
 	"private": true,
-	"version": "1.0",
 	"description": "💻 Cross browser extension to monitor page frames per second performance.",
 	"scripts": {
 		"lint": "run-p lint:*",
